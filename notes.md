@@ -1,21 +1,68 @@
-Pourquoi des devs se font du mal à coder dans un terminal, dans un truc tout
-noir alors qu'il existe de super ide qui font de l'autocompletion, du
-refactoring et plein de plugins.
 
-idée principale est de ne pas utiliser la souris, tout peut se faire au
-clavier. Et de mettre le moins de barrière entre l'intention de ce qu'on veut
-faire et sa réalisation. Après des mois ou des années d'utilisations de vim, ça
-passe en muscle memory, sans passer par le cerveau, comme un clavier azerty où
-on n'a plus besoin de regarder les touches. évite les maladies
-muscolosquelettiques, tendinites, etc
+### C'est quoi vim ?
+Un éditeur de texte.
 
-la blague est "ca fait des années que je suis sur vim, principalement parce que
-je ne sais pas comment le quitter" (hint :q!)
+Dispo sur toutes les plateformes, soit en mode console, soit en GUI.
+Evolution de vi (uniquement en console, seulement les fonctionnalités
+fondamentales de vim).
 
-vim utilise plusieurs mode. Le plus puissant est le mode normal, qui n'a rien
-à voir avec le mode normal auquel vous etes habitué. Le mode normal que vous
-connaissez est en fait le mode insert de vim. On appuie sur une touche, ça
-ajoute la lettre à l'écran.
+### Pourquoi parler de vim ?
+Parce qu'il n'est pas comme les autres et potentiellement incompris.
+
+- "Editeur des années 80." 
+- "Mais passe à un vrai IDE, Sublime, TextMate ou Eclipse"
+- "Tu codes VRAIMENT sous vim ?"
+
+### Principes de Vim
+Il y a plusieurs idées principales dans le design de vim :
+- On passe plus de temps à lire du code, à naviguer dans du code et à déplacer
+  du code qu'on ne passe à écrire du code.
+- Tout doit être faisable sans décoller les mains du clavier, la souris n'est
+  pas utilisée (gros bonus pour les maladies musculosquelettiques, tendinites)
+- Mettre le minimum de barrière entre l'intention dans la tête du développeur
+  et sa réalisation dans le code
+
+### Les modes
+La principale différence entre vim et les autres éditeurs est qu'il possède
+plusieurs modes. Les deux principaux sont le mode Normal (mode par défaut) et
+le mode Insert.
+
+### Mode Insert
+Le mode Insert (qu'on active en appuyant sur `i` et qu'on quitte avec `Escape`)
+est le mode auquel tout le monde est habitué. On tape sur une lettre, cette
+lettre est ajouté au fichier.
+
+### Mode Normal
+Qui ne parait pas normal du tout la première fois. Ici, chaque touche à sa
+propre signification. Ou même suite de touches.
+
+C'est le mode le plus puissant de vim, mais aussi le plus déroutant au début.
+
+Blague commune de "Ca fait des années que je suis sous vim. Principalement
+parce que je n'ai pas trouvé comment le fermer"
+
+(Hint: `:q!<Enter>`)
+
+### Exemples ?
+
+En mode normal, le clavier fonctionne un peu comme un tableau de bord d'un
+vaisseau spatial. Chaque touche peut faire quelque chose, et si on appuie au
+hasard il va se passer n'importe quoi.
+
+
+
+
+
+
+
+
+- Après des mois, ca s'encre dans la muscle memory, comme passer d'azerty
+  à bépo, ou ne plus regarder les touches du clavier
+- Pourquoi telle touche pour telle fonction ? Prends son sens petit à petit.
+- On dévouvre de nouvelles fonctions régulièrement, même après des années
+  d'utilisation.
+- vimtutor pour apprendre vim. vim-adventures.com
+
 
 Sous vim, en mode normal chaque touche a une fonction particulière : supprimer
 une ligne, se déplacer, passer d'un mode à un autre etc.
