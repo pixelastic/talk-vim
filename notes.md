@@ -148,4 +148,4 @@ extensible que vim j'imagine, mais pas essayé moi-même.
 
 
 Qui utilise vim ?
-Steve Losh, Ryan Dahl, 
+Steve Losh, Ryan Dahl, substack
