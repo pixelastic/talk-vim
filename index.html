@@ -7,6 +7,8 @@
     <title>VIM</title>
     <meta name="description" content="VIM">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <link rel="stylesheet" href="./css/remark.css">
+    <link rel="stylesheet" href="./css/fonts.css">
     <link rel="stylesheet" href="./css/style.css">
     <link rel="shortcut icon" href="./favicon.ico">
   </head>
@@ -44,12 +46,12 @@ function() {
     <script src="./js/remark-latest.min.js"></script>
     <script>
       var slideshow = remark.create();
+
       (function($) {
+        // remove basic reveal styles
         var head = $('head')[0];
         var style = $('head style[title=remark]')[0];
-        console.log(head, style);
         head.removeChild(style);
-        console.log(head, style);
       })(document.querySelectorAll.bind(document));
     </script>
   </body>
