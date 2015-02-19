@@ -21,8 +21,8 @@
     <script>
       var slideshow = remark.create();
 
+      // remove basic reveal styles
       (function($) {
-        // remove basic reveal styles
         var head = $('head')[0];
         var style = $('head style[title=remark]')[0];
         head.removeChild(style);

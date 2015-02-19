@@ -1,61 +1,6 @@
 
 
-## Pourquoi
-je l'utilise, j'entends plein de choses dessus
-je souhaite demystifier
-je code avec, je prends mes notes avec, j'édite ma conf serveur, j'écris mes
-messages de commit
 
-## verbatims
-
-Pourquoi tu codes dans un éditeur des années 80
-Tu sais, Éclipse c'est un vrai IDE
-Nan, sérieux, tu codes VRAIMENT sous vim ?
-
-## Présentation
-éditeur de texte
-historiquement
-
-## Mind > hands > code
-pas lever les mains du clavier
-pas besoin de souris
-cool pour les douleurs musculaires
-penses à quelque chose, on peut le faire en quelques touches
-
-## orienté fichier, pas projet
-ne fait pas de refacto, de rename sur plusieurs fichiers
-on édite un fichier à la fois
-on passe plus de temps à lire, éditer, qu'à écrire réellement
-aide là dedans
-
-## mode normal
-pas normal du tout. le mode normal que vous connaissez c'est le mode insert
-une touche = une lettre
-
-en mode normal, une touche = une action
-supprimer une ligne, modifier un mot, selectionner une phrase, copier un
-paragraphe. se déplacer dans le fichier
-
-on a ctrls, ctrlc, ctrlv. Là, on en a beaucoup plus, on ne remarque plus ce
-qu'on tape, on veut juste faire l'action.
-
-mêmes touches que pour grep, less
-au pire, on rebind
-
-## more
-search replace regexps
-macros
-repeat last action
-markeurs
-onsave/onenter
-scriptable (vimscript très présent sur github, reve de geek, meta programming)
-
-## wanna try ?
-vim tutor, fichiers de confs, avec un mentor
-meetup vim, vim adventures
-
-## who use it ?
-ryan dahl, steve losh, substack
 
 
 https://pascalprecht.github.io/2014/03/18/why-i-use-vim/
