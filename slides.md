@@ -124,3 +124,13 @@ cumuler pour des effets exponentiels.
 - Pas de gestion de projet
 - Pas de possibilité de refacto/extract method
 - Pas d'intelligence comme WebStorm de base (mais extensible)
+
+
+## Pourquoi vim ?
+
+- Dispo sur toutes les plaeformes, nouvelle méthode de pensée, étandable
+- Travail à distance dans une console
+- Vu des gens faire des trucs de ouf, rapide
+- Sublime text. Pair-programming. Mode vintage, config de base, est allé plus
+  vite que Sublime avec plein de plugins.
+- Rails, pas mal sous vim. @rook de Thoughtbot.
