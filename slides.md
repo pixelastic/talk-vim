@@ -29,16 +29,16 @@ class: content-centered
 
 - Très important
 - Doit faire gagner du temps
-- Doit se plier à nous, pas l'inverse
+- Vim == Emacs == IntelliJ ==  ...
 - Celui qui vous convient
 
 ---
 class: content-centered
-# Tout au clavier
+# Muscle Memory
 
 - Réduction des douleurs musculaires
+- Édition ≠ Création
 - Mode Normal
-- Muscle Memory
 - Pensée > clavier > code
 
 ---
@@ -48,16 +48,17 @@ class: content-centered
 - Vocabulaire et conjugaison
 - Modulable
 - Standard
+- Extensible
 
 ---
 class: content-centered
 # Extensible
 
-- Motions & Actions custom
 - Mapping de touches
+- Macros
 - VimScript
 - Ligne de commande
-- Macros
+- ...
 
 ---
 class: content-centered
