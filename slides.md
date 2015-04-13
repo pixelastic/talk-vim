@@ -28,7 +28,7 @@ class: content-centered
 # Éditeur
 
 - Très important
-- Doit faire gagner du temps
+- Agréable, productif
 - Vim == Emacs == IntelliJ ==  ...
 - Celui qui vous convient
 
@@ -64,8 +64,8 @@ class: content-centered
 class: content-centered
 # Envie d'essayer ?
 
-- Lancez-vous
 - Commencez petit
+- Investissement
 - `vimtutor`, [vim-adventures.com][4]
 - Trouvez un mentor ([Meetup :vim paris](http://www.meetup.com/Vim-Paris/))
 
