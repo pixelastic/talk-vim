@@ -17,12 +17,7 @@ Vim depuis 4 ans.
 class: content-centered
 # Vim, c'est quoi ?
 
-![Capture écran Vim][3]
-
-.center[
-  Text User Interface
-]
-
+![Screencast][3]
 ---
 class: content-centered
 # Éditeur
@@ -77,7 +72,8 @@ class: slide-questions, content-centered
   <div class="part part-below part-mail" name="email">tim@<div class="part part-above part-website" name="website"><div class="part part-below part-twitter" name="twitter">pixelastic</div>.com</div></div>
 </div>
 
+
 [1]: https://twitter.com/pixelastic
 [2]: http://www.octo.com/
-[3]: ./img/screen.jpg
+[3]: ./img/screencast.gif
 [4]: http://vim-adventures.com/
